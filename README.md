@@ -1,8 +1,11 @@
-# React + Vite
+# Ruhit Baidya
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This Site Use Purpose You Can Create A Google Shaire Link to Download Link If you Give a image or file shaire link in the inpur field then click on the get download button then you find a link this link use for download and you can set in your proejcts.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Live Link](https://ruhitbaidyacreatelink.netlify.app/) 
+
+
+
+This Site use Techanology 
+React.js
